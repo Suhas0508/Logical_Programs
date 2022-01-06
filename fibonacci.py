@@ -9,7 +9,7 @@ s = 1
 rem = 0
 total = f+s
 print(f"{f}, {s}, ",end="")
-for i in range(1,num):
+for i in range(2,num):
     
     print(f"{total}, ", end="")
     f = s
